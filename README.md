@@ -1,4 +1,14 @@
-# Hi 👋 I'm Amrutha Ballani
+<h1 align="center">Hi 👋 I'm Amrutha Ballani</h1>
+
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=600&lines=AI+Engineer+in+Progress;Full+Stack+Developer;Building+AI+Powered+Applications;Exploring+AI+Agents+%26+LLM+Workflows" />
+</p>
+
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Amrutha0806&label=Profile%20Views&style=flat" />
+</p>
 
 ### AI Engineer in Progress | Full Stack Developer | Building AI Products 🚀
 
