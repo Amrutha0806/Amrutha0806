@@ -50,29 +50,54 @@ I enjoy working with:
 LangChain • LangGraph • LLM Applications • AI Agents
 
 
-## ⭐ Featured Projects
+## 🚀 Featured Projects
+
 
 ### 📰 AI News Intelligence Dashboard
 
-AI-powered platform that collects, organizes, and summarizes technology news.
+🤖 AI-powered platform that simplifies technology updates using intelligent workflows.
+
+**Tech Stack:**  
+React • Supabase • AI APIs • Automation
+
+Highlights:
+
+✔ Modern dashboard interface  
+✔ AI-powered summaries  
+✔ Real-world AI workflow design  
+
+
+---
+
+### 🧠 AI Agent Workflow System
+
+Experimenting with autonomous AI systems using modern agent architecture.
+
+**Tech Stack:**  
+Python • LangChain • LangGraph
 
 Features:
-- AI summarization
-- Automated workflows
-- Personalized dashboard
 
+✔ Tool calling  
+✔ Memory integration  
+✔ Multi-step reasoning workflows  
 
-### 🤖 AI Agent Experiments
-
-Building intelligent agents with:
-- Tools
-- Memory
-- Multi-step reasoning
 
 
 ## 🌱 My Philosophy
 
 "Learn deeply. Build practically. Improve continuously."
+
+## 📊 GitHub Analytics
+
+
+<p align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Amrutha0806&show_icons=true&theme=tokyonight" />
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Amrutha0806&theme=tokyonight" />
+
+</p>
 
 
 ## 📫 Connect with me
