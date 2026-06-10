@@ -114,7 +114,7 @@ LangChain • LangGraph • LLM Applications • AI Agents
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/amruthaballani/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
 </a>
 
