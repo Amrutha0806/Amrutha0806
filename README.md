@@ -22,20 +22,22 @@ I enjoy working with:
 
 ## 🛠 Tech Stack
 
-Languages:
-Python | JavaScript | SQL
+<p align="left">
 
-Frontend:
-React | HTML | CSS | Tailwind
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,tailwind,git,github,vscode" />
 
-Backend:
-Node.js | FastAPI
+</p>
 
-AI:
-LLMs | LangChain | LangGraph | Prompt Engineering
 
-Database & Tools:
-Supabase | Git | GitHub
+## 🤖 AI & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+</p>
+
+LangChain • LangGraph • LLM Applications • AI Agents
 
 
 ## ⭐ Featured Projects
