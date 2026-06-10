@@ -10,44 +10,20 @@
 <img src="https://komarev.com/ghpvc/?username=Amrutha0806&label=Profile%20Views&style=flat" />
 </p>
 
-### AI Engineer in Progress | Full Stack Developer | Building AI Products 🚀
+## 👩‍💻 About Me
 
-I am a Computer Science graduate passionate about building practical AI-powered applications.
+I’m a Computer Science graduate passionate about building AI-powered applications using modern AI tools and full-stack technologies.
+
+- 🤖 Exploring AI Agents, LLM Workflows & Automation
+- 🧠 Learning LangChain, LangGraph & Tool Calling
+- 🌐 Building full-stack applications with AI integrations
+- 🚀 Interested in AI Engineer & Software Developer roles
 
 I enjoy working with:
 - 🤖 LLM Applications
 - 🧠 AI Agents & Workflows
 - 🌐 Full Stack Development
 - ⚡ Automation Tools
-
-
-## 🚀 Currently Exploring
-
-- LangChain
-- LangGraph
-- Tool Calling
-- AI Agents
-- Full Stack AI Applications
-
-
-## 🛠 Tech Stack
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,tailwind,git,github,vscode" />
-
-</p>
-
-
-## 🤖 AI & Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
-</p>
-
-LangChain • LangGraph • LLM Applications • AI Agents
 
 
 ## 🚀 Featured Projects
@@ -83,10 +59,44 @@ Features:
 ✔ Multi-step reasoning workflows  
 
 
+## 🚀 Currently Building & Learning
+
+- 🤖 AI Agent based applications
+- 🔗 LLM powered workflows
+- 🧠 LangChain & LangGraph systems
+- ⚡ Automation tools
+- 🌐 Full-stack AI projects
+
+
+## 🛠 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,tailwind,git,github,vscode" />
+
+</p>
+
+
+## 🤖 AI & Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+</p>
+
+LangChain • LangGraph • LLM Applications • AI Agents
+
 
 ## 🌱 My Philosophy
 
 "Learn deeply. Build practically. Improve continuously."
+
+## 🐍 Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</p>
 
 ## 📊 GitHub Analytics
 
@@ -100,7 +110,16 @@ Features:
 </p>
 
 
-## 📫 Connect with me
+## 🤝 Connect with me
 
-LinkedIn: www.linkedin.com/in/amruthaballani
-Email: amruthaballani@gmail.com
+<p align="left">
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:amruthaballani@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white">
+</a>
+
+</p>
